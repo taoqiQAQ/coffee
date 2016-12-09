@@ -12,14 +12,14 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 /**
- * Add your package below. Package name can be found in the project's AndroidManifest.xml file.
- * This is the package name our example uses:
- * <p>
- * package com.example.android.justjava;
- */
+ * 在下面添加您的包。 软件包名称可以在项目的AndroidManifest.xml文件中找到。
+   *这是我们的示例使用的包名称：
+   * <p>
+   * package com.example.android.justjava;
+   * /
 
-/**
- * This app displays an order form to order coffee.
+ / **
+   *此应用程序显示订购咖啡的订单。
  */
 public class MainActivity extends AppCompatActivity {
 
