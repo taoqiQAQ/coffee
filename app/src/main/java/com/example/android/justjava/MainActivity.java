@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * This method is called when the plus button is clicked.
+     * 当单击加号按钮时调用此方法。
      */
     public void increment(View view) {
         if (quantity == 100) {
